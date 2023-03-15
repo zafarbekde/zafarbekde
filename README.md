@@ -25,7 +25,7 @@ I'm fullstack junior javascript developer from Uzbekistan.
  &nbsp;&nbsp;&nbsp;
  <a href="https://github.com/zafarbekde" target="_blank"> <img src="https://toppng.com/uploads/preview/github-logo-transparent-11659780111lim6tyk2io.png" alt="Github" height="40" style="vertical-align:top; margin:4px"></a>
  &nbsp;&nbsp;&nbsp;
- <a href="mailto:zafarbekde@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://zafarbekde@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 
 <br />
 
