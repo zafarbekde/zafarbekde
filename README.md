@@ -42,13 +42,10 @@ I'm fullstack junior javascript developer from Uzbekistan.
 </p>
 
 ## 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zafarbekde&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirbekdev&layout=compact&theme=vision-friendly-dark)
-
-<picture>
+![GitHub stats]<picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: tokyonight)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true"
@@ -56,4 +53,6 @@ I'm fullstack junior javascript developer from Uzbekistan.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirbekdev&layout=compact&theme=vision-friendly-dark)
+
 
