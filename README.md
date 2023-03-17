@@ -42,6 +42,6 @@ I'm fullstack junior javascript developer from Uzbekistan.
 </p>
 
 ## 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zafarbekde&theme=tokiyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirbekdev&layout=compact&theme=vision-friendly-dark)]
 
