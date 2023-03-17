@@ -23,7 +23,7 @@ I'm fullstack junior javascript developer from Uzbekistan.
 <p align="center">
  <a href="https://www.instagram.com/zafarbek.de" target="_blank" style="margin-left: 20px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
  &nbsp;&nbsp;&nbsp;
-  <a href="[https://www.instagram.com/zafarbek.de](https://t.me/zafarbek_de)" target="_blank" style="margin-left: 20px"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
+  <a href="https://t.me/zafarbek_de" target="_blank" style="margin-left: 20px"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
  &nbsp;&nbsp;&nbsp;
  <a href="https://github.com/zafarbekde" target="_blank"> <img src="https://toppng.com/uploads/preview/github-logo-transparent-11659780111lim6tyk2io.png" alt="Github" height="40" style="vertical-align:top; margin:4px"></a>
  &nbsp;&nbsp;&nbsp;
