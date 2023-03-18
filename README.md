@@ -40,6 +40,9 @@ I'm fullstack junior javascript developer from Uzbekistan.
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://miro.medium.com/max/1024/1*qIe4N-8SkqruE7GzxJYsFg.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://repository-images.githubusercontent.com/387086116/2c2dbc00-9abb-448b-bfa4-f803ca857d49"  height="40" style="vertical-align:top; margin:4px">
   
 </p>
 
