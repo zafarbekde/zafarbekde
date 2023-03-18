@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-
 # About_ME
 
 ### Hi there 👋
@@ -49,9 +48,6 @@ I'm fullstack junior javascript developer from Uzbekistan.
 ## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=transparent )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafarbekde&theme=tokyonight)
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
