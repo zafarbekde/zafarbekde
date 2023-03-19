@@ -13,7 +13,7 @@ My name is **Zafarbek Xudashkurov** I have been a web developer since 2020.
 I'm fullstack junior javascript developer from Uzbekistan.
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zafarbekde&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zafarbekde&bg_theme=tokyonight&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently developing a web sites.
 - 🌱 I’m looking forward in learning Typescript soon
@@ -52,3 +52,10 @@ I'm fullstack junior javascript developer from Uzbekistan.
 ## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=tokyonight )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafarbekde&theme=tokyonight)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{zafarbekde}/count.svg" /></p> 
+<br>
+</div>
