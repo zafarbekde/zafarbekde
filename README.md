@@ -12,6 +12,9 @@ My name is **Zafarbek Xudashkurov** I have been a web developer since 2020.
 
 I'm fullstack junior javascript developer from Uzbekistan.
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zafarbekde&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 🔭 I’m currently developing a web sites.
 - 🌱 I’m looking forward in learning Typescript soon
 - 👯 I’m looking to collaborate with anyone on any projects.
